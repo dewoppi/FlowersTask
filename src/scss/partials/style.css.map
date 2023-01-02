@@ -1,1 +1,1 @@
-{"version":3,"sources":["../pages/home/_home.scss","style.css"],"names":[],"mappings":"AACI;EACI,UAAA;ACAR","file":"style.css"}
+{"version":3,"sources":["../pages/home/_home.scss","style.css","../pages/about/_about.scss","style.scss"],"names":[],"mappings":"AACI;EACI,UAAA;ACAR;;ACDI;EACI,6BAAA;ADIR;;AEAA;EACI,sBAAA;EACA,SAAA;EACA,UAAA;AFGJ","file":"style.css"}
